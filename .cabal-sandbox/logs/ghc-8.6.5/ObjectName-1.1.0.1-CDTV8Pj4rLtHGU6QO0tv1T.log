@@ -1,0 +1,7 @@
+cabal: Entering directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1611/ObjectName-1.1.0.1'
+Configuring ObjectName-1.1.0.1...
+Preprocessing library for ObjectName-1.1.0.1..
+Building library for ObjectName-1.1.0.1..
+[1 of 1] Compiling Data.ObjectName  ( src/Data/ObjectName.hs, dist/dist-sandbox-a52d6546/build/Data/ObjectName.o )
+Installing library in /Users/jorge/Documents/haskell/trabalhoPF/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.5/ObjectName-1.1.0.1-CDTV8Pj4rLtHGU6QO0tv1T
+cabal: Leaving directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1611/ObjectName-1.1.0.1'

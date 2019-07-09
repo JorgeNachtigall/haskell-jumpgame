@@ -1,0 +1,16 @@
+cabal: Entering directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1610/GLURaw-2.0.0.4'
+Configuring GLURaw-2.0.0.4...
+Preprocessing library for GLURaw-2.0.0.4..
+Building library for GLURaw-2.0.0.4..
+[1 of 6] Compiling Graphics.GLU.Callbacks ( src/Graphics/GLU/Callbacks.hs, dist/dist-sandbox-a52d6546/build/Graphics/GLU/Callbacks.o )
+[2 of 6] Compiling Graphics.GLU.Tokens ( src/Graphics/GLU/Tokens.hs, dist/dist-sandbox-a52d6546/build/Graphics/GLU/Tokens.o )
+[3 of 6] Compiling Graphics.GLU.TypesInternal ( src/Graphics/GLU/TypesInternal.hs, dist/dist-sandbox-a52d6546/build/Graphics/GLU/TypesInternal.o )
+[4 of 6] Compiling Graphics.GLU.Types ( src/Graphics/GLU/Types.hs, dist/dist-sandbox-a52d6546/build/Graphics/GLU/Types.o )
+[5 of 6] Compiling Graphics.GLU.Functions ( src/Graphics/GLU/Functions.hs, dist/dist-sandbox-a52d6546/build/Graphics/GLU/Functions.o )
+[6 of 6] Compiling Graphics.GLU     ( src/Graphics/GLU.hs, dist/dist-sandbox-a52d6546/build/Graphics/GLU.o )
+ld: warning: text-based stub file /System/Library/Frameworks//OpenGL.framework/OpenGL.tbd and library file /System/Library/Frameworks//OpenGL.framework/OpenGL are out of sync. Falling back to library file for linking.
+ld: warning: text-based stub file /System/Library/Frameworks//OpenGL.framework/OpenGL.tbd and library file /System/Library/Frameworks//OpenGL.framework/OpenGL are out of sync. Falling back to library file for linking.
+ld: warning: text-based stub file /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.tbd and library file /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib are out of sync. Falling back to library file for linking.
+ld: warning: text-based stub file /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.tbd and library file /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib are out of sync. Falling back to library file for linking.
+Installing library in /Users/jorge/Documents/haskell/trabalhoPF/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.5/GLURaw-2.0.0.4-Kva0SDupaOSQM2jIVS32F
+cabal: Leaving directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1610/GLURaw-2.0.0.4'

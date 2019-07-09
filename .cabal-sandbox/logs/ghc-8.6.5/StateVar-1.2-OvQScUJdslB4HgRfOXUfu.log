@@ -1,0 +1,7 @@
+cabal: Entering directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1610/StateVar-1.2'
+Configuring StateVar-1.2...
+Preprocessing library for StateVar-1.2..
+Building library for StateVar-1.2..
+[1 of 1] Compiling Data.StateVar    ( src/Data/StateVar.hs, dist/dist-sandbox-a52d6546/build/Data/StateVar.o )
+Installing library in /Users/jorge/Documents/haskell/trabalhoPF/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.5/StateVar-1.2-OvQScUJdslB4HgRfOXUfu
+cabal: Leaving directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1610/StateVar-1.2'

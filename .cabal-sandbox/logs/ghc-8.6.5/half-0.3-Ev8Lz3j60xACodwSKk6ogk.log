@@ -1,0 +1,7 @@
+cabal: Entering directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1614/half-0.3'
+Configuring half-0.3...
+Preprocessing library for half-0.3..
+Building library for half-0.3..
+[1 of 1] Compiling Numeric.Half     ( src/Numeric/Half.hs, dist/dist-sandbox-a52d6546/build/Numeric/Half.o )
+Installing library in /Users/jorge/Documents/haskell/trabalhoPF/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.5/half-0.3-Ev8Lz3j60xACodwSKk6ogk
+cabal: Leaving directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-1614/half-0.3'

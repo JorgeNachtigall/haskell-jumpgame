@@ -1,0 +1,15 @@
+cabal: Entering directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-11073/random-1.1'
+Warning: random.cabal:15:2: Tabs used as indentation at 15:2, 16:2, 17:2
+Configuring random-1.1...
+Preprocessing library for random-1.1..
+Building library for random-1.1..
+[1 of 1] Compiling System.Random    ( System/Random.hs, dist/dist-sandbox-a52d6546/build/System/Random.o )
+
+System/Random.hs:43:1: warning: [-Wtabs]
+    Tab character found here, and in 74 further locations.
+    Please use spaces instead.
+   |
+43 |         (
+   | ^^^^^^^^
+Installing library in /Users/jorge/Documents/haskell/trabalhoPF/.cabal-sandbox/lib/x86_64-osx-ghc-8.6.5/random-1.1-3ypV4EIycgb35PKjTYYr5q
+cabal: Leaving directory '/var/folders/t8/ns941wqs6pq1xh9w7hcxk61r0000gn/T/cabal-tmp-11073/random-1.1'
